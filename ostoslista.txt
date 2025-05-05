@@ -1,0 +1,11 @@
+Ostoslista:
+1. Kamaa
+2. Lisää kamaa
+3. Hamppareita
+4. Limuu
+5. Kaljaa
+6. Vielä lisää kamaa
+7. Pitsaa
+8. Maitoo
+9. Juustoo
+10. Rahaa
