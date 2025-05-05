@@ -9,3 +9,4 @@ Ostoslista:
 8. Juustoo
 9. LISÄÄ JUUSTOO
 10. Rahaa
+11. Kessua
