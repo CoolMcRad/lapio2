@@ -6,6 +6,6 @@ Ostoslista:
 5. Kaljaa
 6. Vielä lisää kamaa
 7. Pitsaa
-8. Maitoo
-9. Juustoo
+8. Juustoo
+9. LISÄÄ JUUSTOO
 10. Rahaa
